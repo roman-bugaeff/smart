@@ -1,0 +1,8 @@
+.grey-line{
+    background-color: #f5f5f5;
+    padding: 8px 0;
+}
+
+.main-nav .nav>li>a {
+    padding: 15px 20px;;
+}
