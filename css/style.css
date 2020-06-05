@@ -43,3 +43,25 @@
     font-size: 24px;
     text-transform: uppercase;
 }
+
+.block-adv{
+    background-image: url(../images/irochka.jpeg);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: 100% 50%;
+    padding: 50px 0;
+    margin: 40px 0;
+}
+
+.block-adv h2{
+    margin-bottom: 30px;
+}
+
+.block-adv ul{
+    margin: 50px 0;    
+}
+
+.block-adv ul li {
+    margin: 2% 0;
+    font-size: 20px;
+}
