@@ -69,8 +69,8 @@
 /*======================service-card=========================*/
 .service-card{
     border: 1px solid #ececec;
-    margin-bottom: 30px;
-    box-shadow:1px black;
+    margin-bottom: 30px;    
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
 .service-card img{
