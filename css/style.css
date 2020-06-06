@@ -63,5 +63,27 @@
 
 .block-adv ul li {
     margin: 2% 0;
-    font-size: 20px;
+    font-size: 20px; 
+}
+
+/*======================service-card=========================*/
+.service-card{
+    border: 1px solid #ececec;
+    margin-bottom: 30px;
+    box-shadow:1px black;
+}
+
+.service-card img{
+    max-width: 100%;
+}
+
+.service-card h2 {
+    text-align: center;
+    margin: 20px 0 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px solid red;
+}
+
+.service-card .description{
+    padding: 20px;
 }
