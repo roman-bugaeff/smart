@@ -1,5 +1,5 @@
 .grey-line{
-    background-color: #f5f5f5;
+    background-color: #000;
     padding: 8px 0;
 }
 
@@ -14,9 +14,9 @@
     -webkit-flex-direction: row;
     -ms-flex-direction: row;
     flex-direction: row;
-    -webkit-flex-wrap: nowrap;
-    -ms-flex-wrap: nowrap;
-    flex-wrap: nowrap;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
     -webkit-justify-content: flex-start;
     -ms-flex-pack: start;
     justify-content: flex-start;
@@ -70,7 +70,7 @@
 .service-card{
     border: 1px solid #ececec;
     margin-bottom: 30px;    
-    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    /* box-shadow: 0 0 10px rgba(0,0,0,0.5); */
 }
 
 .service-card img{
@@ -81,7 +81,7 @@
     text-align: center;
     margin: 20px 0 20px;
     padding-bottom: 20px;
-    border-bottom: 1px solid red;
+    border-bottom: 1px solid rgb(16, 153, 50);
 }
 
 .service-card .description{
